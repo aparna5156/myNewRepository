@@ -11,6 +11,7 @@ public class DmartSignInPage extends baseTest{
 	private WebElement signInBtn;
 	private WebElement signInmobnumField;
 	private WebElement signInpassField;
+	private WebElement temppage;
 	public WebDriver getDriver() {
 		return driver;
 	}
