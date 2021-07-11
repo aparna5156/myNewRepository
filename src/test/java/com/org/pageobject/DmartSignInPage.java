@@ -12,6 +12,7 @@ public class DmartSignInPage extends baseTest{
 	private WebElement signInmobnumField;
 	private WebElement signInpassField;
 	private WebElement temppage;
+	private WebElement paymentpage;
 	public WebDriver getDriver() {
 		return driver;
 	}
